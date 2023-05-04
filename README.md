@@ -8,14 +8,14 @@
 
 
 [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://taskmate.iulianursu.dev/)
-[![License](https://img.shields.io/badge/-mit-red.svg?longCache=true&style=for-the-badge)](https://github.com/Iulian-U/FlightPath/blob/main/LICENSE.md)
+[![License](https://img.shields.io/badge/-mit-red.svg?longCache=true&style=for-the-badge)](https://github.com/Iulian-U/taskMate/blob/main/LICENSE)
 [![Vercel](https://img.shields.io/badge/-powered%20by%20vercel-black.svg?logo=vercel&longCache=true&style=for-the-badge)](https://vercel.com)
 
 </div>
 
 ## ⚙️ Stack
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 
 </br>
 
@@ -24,7 +24,7 @@
 Clone the repository
 
 ```zsh
-git clone https://github.com/Iulian-U/FlightPath.git
+git clone https://github.com/Iulian-U/taskMate.git
 ```
 
 Install dependencies
@@ -37,22 +37,22 @@ yarn
 Start the development server
 
 ```zsh
-npm run dev
+npm start
 # Or using Yarn
-yarn dev
+yarn start
 ```
 
 Build for production
 
 ```zsh
-npm run build
+npm build
 # Or using Yarn
 yarn
 ```
 
 ## 📄 License
 
-MIT © [Iulian Ursu](https://github.com/Iulian-U/FlightPath/blob/main/LICENSE.md)
+MIT © [Iulian Ursu](https://github.com/Iulian-U/taskMate/blob/main/LICENSE)
 
 
 
